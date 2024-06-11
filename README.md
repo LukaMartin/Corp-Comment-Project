@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+## Corp Comment Project
+
+I completed this project as part of the ByteGrad advanced React and NextJs course. I am aiming to deepen my understanding of more advanced React principles and the use of the NextJs framework.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
